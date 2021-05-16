@@ -1,6 +1,6 @@
 _________________
 <h3 align="center">Hi there! I see that you find my GitHub profile, shall I introduce myself?</h3>
-<p align="justify">My name is Athal. I'm a Computer Science student at the University of Indonesia and an aspiring web and mobile developer. I'm currently learning back-end and multi-platform development besides studying university courses as part of my degree..</p>
+<p align="justify">My name is Athal. I'm a Computer Science student at the University of Indonesia and an aspiring web and mobile developer. I'm currently learning back-end and multi-platform development besides studying university courses as part of my degree.</p>
 
 
 <p align="center"><strong>The Technologies I Learn and Use</strong></p>
