@@ -15,8 +15,8 @@ _________________
   - Twitter: @mhd_athallah
 
 <p align="center"><strong>Statistics</strong></p>
-![Athal's GitHub stats](https://github-readme-stats.vercel.app/api?username=determinedguy&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=determinedguy&layout=compact&theme=synthwave)
+[![Athal's GitHub stats](https://github-readme-stats.vercel.app/api?username=determinedguy&show_icons=true&theme=synthwave)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=determinedguy&layout=compact&theme=synthwave)]
 
   
 <!--
