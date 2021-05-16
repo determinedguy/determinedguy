@@ -1,6 +1,6 @@
 _________________
 <h3 align="center">Hi there! I see that you find my GitHub profile, shall I introduce myself?</h3>
-<p align="justify">My name is Athal. I'm a Computer Science student at the University of Indonesia and an aspiring web and mobile developer.</p>
+<p align="justify">My name is Athal. I'm a Computer Science student at the University of Indonesia and an aspiring web and mobile developer. I'm currently learning back-end and multi-platform development.</p>
 
 
 <p align="center"><strong>The Technologies I Learn and Use</strong></p>
@@ -10,9 +10,11 @@ _________________
 
 <p align="center"><strong>Contact</strong></p>
 
-  - Email: mhd.athallah@gmail.com or muhammad.athallah01@ui.ac.id **(For academic purposes only)**
-  - Instagram: @mhd.athallah
-  - Twitter: @mhd_athallah
+  - [E-mail](mailto:mhd.athallah@gmail.com)
+  - [Academic E-mail](mailto:muhammad.athallah01@ui.ac.id)
+  - [LinkedIn](https://www.linkedin.com/in/mhd-athallah/)
+  - [Instagram](https://www.instagram.com/mhd.athallah/)
+  - [Twitter](https://twitter.com/mhd_athallah)
 
 <p align="center"><strong>Statistics</strong></p>
 
