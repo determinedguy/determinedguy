@@ -13,7 +13,6 @@ _________________
   - [E-mail](mailto:mhd.athallah@gmail.com)
   - [Academic E-mail](mailto:muhammad.athallah01@ui.ac.id)
   - [LinkedIn](https://www.linkedin.com/in/mhd-athallah/)
-  - [Instagram](https://www.instagram.com/mhd.athallah/)
   - [Twitter](https://twitter.com/mhd_athallah)
 
 <p align="center"><strong>Statistics</strong></p>
