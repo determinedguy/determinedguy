@@ -18,9 +18,13 @@ _________________
 <p align="center"><strong>Statistics</strong></p>
 
 <p align="center">
-[![Athal's GitHub stats](https://github-readme-stats.vercel.app/api?username=determinedguy&show_icons=true&theme=synthwave&count_private=true&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=determinedguy&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=determinedguy&show_icons=true&theme=synthwave&count_private=true&hide=contribs,issues,prs" alt="determinedguy's github stats" href="https://github.com/anuraghazra/github-readme-stats"/>
+  </a>
+  <br/><br/>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=naufalist&show_icons=true&theme=dracula&count_private=true&hide=contribs,issues,prs" alt="determinedguy's top languages" href="https://github.com/anuraghazra/github-readme-stats"/>
+  </a>
 </p>
 
 <!--
