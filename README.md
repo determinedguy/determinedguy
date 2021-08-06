@@ -17,8 +17,8 @@ _________________
 
 <p align="center"><strong>Statistics</strong></p>
 
-[![Athal's GitHub stats](https://github-readme-stats.vercel.app/api?username=determinedguy&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=determinedguy&layout=compact&theme=synthwave&count_private=true&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Athal's GitHub stats](https://github-readme-stats.vercel.app/api?username=determinedguy&show_icons=true&theme=synthwave&count_private=true&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=determinedguy&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **determinedguy/determinedguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
