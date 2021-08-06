@@ -17,9 +17,11 @@ _________________
 
 <p align="center"><strong>Statistics</strong></p>
 
+<p align="center">
 [![Athal's GitHub stats](https://github-readme-stats.vercel.app/api?username=determinedguy&show_icons=true&theme=synthwave&count_private=true&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=determinedguy&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <!--
 **determinedguy/determinedguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
