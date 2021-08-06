@@ -23,7 +23,7 @@ _________________
   </a>
   <br/><br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=determinedguy&theme=synthwave" alt="determinedguy's top languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=determinedguy&theme=synthwave&hide=html,css" alt="determinedguy's top languages"/>
   </a>
 </p>
 
