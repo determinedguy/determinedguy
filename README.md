@@ -25,11 +25,6 @@ _________________
   </a>
 </p>
 
-  - [E-mail]()
-  - [Academic E-mail]()
-  - [LinkedIn]()
-  - [Twitter]()
-
 <p align="center"><strong>Statistics</strong></p>
 
 <p align="center">
