@@ -8,12 +8,27 @@ _________________
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 </p>
 
-<p align="center"><strong>Contact</strong></p>
+<p align="center"><strong>Contact Me!</strong></p>
 
-  - [E-mail](mailto:mhd.athallah@gmail.com)
-  - [Academic E-mail](mailto:muhammad.athallah01@ui.ac.id)
-  - [LinkedIn](https://www.linkedin.com/in/mhd-athallah/)
-  - [Twitter](https://twitter.com/mhd_athallah)
+<p align="center">
+  <a href="mailto:mhd.athallah@gmail.com">
+    <img alt="Personal E-mail" src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:muhammad.athallah01@ui.ac.id">
+    <img alt="Academic E-mail" src="https://img.shields.io/badge/Academic-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mhd-athallah/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/mhd_athallah">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+</p>
+
+  - [E-mail]()
+  - [Academic E-mail]()
+  - [LinkedIn]()
+  - [Twitter]()
 
 <p align="center"><strong>Statistics</strong></p>
 
