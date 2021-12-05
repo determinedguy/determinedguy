@@ -23,6 +23,9 @@ _________________
   <a href="https://twitter.com/mhd_athallah">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
+  <a href="https://www.duolingo.com/profile/mhd.athallah">
+    <img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center"><strong>Statistics</strong></p>
