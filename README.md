@@ -25,18 +25,6 @@ _________________
   </a>
 </p>
 
-<p align="center"><strong>Statistics</strong></p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=determinedguy&theme=synthwave" alt="determinedguy's github streak stats"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=determinedguy&theme=synthwave&hide=html,css" alt="determinedguy's top languages"/>
-  </a>
-</p>
-
 <!--
 **determinedguy/determinedguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
