@@ -31,6 +31,14 @@ _________________
   </a>
 </div>
 
+<br>
+
+<p align="center"><strong>Bonus :)</strong></p>
+
+<div align="center">
+  <a href="https://www.steamidfinder.com/lookup/76561199649776866/"><img src="https://www.steamidfinder.com/signature/76561199649776866.png" alt="DeterminedGuy Steam Signature - SteamId for determinedguy, real name Athallah"/></a>
+</div>
+
 <!--
 **determinedguy/determinedguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
