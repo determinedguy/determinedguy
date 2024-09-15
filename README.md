@@ -1,7 +1,8 @@
 _________________
 <h3 align="center">Hi there! I see that you find my GitHub profile, shall I introduce myself?</h3>
-<p align="center">My name is Athallah. I'm a Computer Science student at the University of Indonesia and an aspiring mobile developer. I am currently learning cloud computing and multi-platform development besides studying university courses as part of my degree.</p>
-<p align="center">I also like learning new things, especially about linguistics, languages, and cultures. 日本語を少し話します。Parlo un po' d'italiano. Nauczyłem się trochę języka polskiego. 有时我学普通话。</p>
+<p align="center">My name is Athallah. I completed my bachelor’s degree in computer science at Universitas Indonesia.</p>
+<p align="center">My bachelor’s thesis involved developing a Platform as a Service (PaaS) tailored to the specifications and needs of the IT division within the Faculty of Computer Science Universitas Indonesia.</p>
+<p align="center">I also like learning new things, especially about linguistics, languages, and cultures.</p>
 
 
 <p align="center"><strong>The Technologies I Learn and Use</strong></p>
@@ -20,9 +21,11 @@ _________________
   <a href="mailto:mhd.athallah@gmail.com">
     <img alt="Personal E-mail" src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <!--
   <a href="mailto:muhammad.athallah01@ui.ac.id">
     <img alt="Academic E-mail" src="https://img.shields.io/badge/Academic-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  -->
   <a href="https://www.linkedin.com/in/mhd-athallah/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -31,6 +34,7 @@ _________________
   </a>
 </div>
 
+<!--
 <br>
 
 <p align="center"><strong>Bonus :)</strong></p>
@@ -38,6 +42,8 @@ _________________
 <div align="center">
   <a href="https://www.steamidfinder.com/lookup/76561199649776866/"><img src="https://www.steamidfinder.com/signature/76561199649776866.png" alt="DeterminedGuy Steam Signature - SteamId for determinedguy, real name Athallah"/></a>
 </div>
+-->
+
 
 <!--
 **determinedguy/determinedguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
