@@ -1,7 +1,7 @@
 _________________
 <h3 align="center">Hi there! I see that you find my GitHub profile, shall I introduce myself?</h3>
 <p align="center">My name is Athallah. I completed my bachelor’s degree in computer science at Universitas Indonesia.</p>
-<p align="center">My bachelor’s thesis involved developing a Platform-as-a-Service (PaaS) tailored to the specifications and needs of the IT division within the Faculty of Computer Science Universitas Indonesia.</p>
+<p align="center">My bachelor’s thesis involved orchestrating a Platform-as-a-Service (PaaS) tailored to the specifications and needs of the IT division within the Faculty of Computer Science Universitas Indonesia.</p>
 <p align="center">I also like learning new things, especially about linguistics, languages, and cultures.</p>
 
 
